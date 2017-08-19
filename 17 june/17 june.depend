@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497678253 source:c:\users\sayan\onedrive\documents\codeblocks projects\17 june\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
