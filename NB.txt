@@ -1,0 +1,3 @@
+char array[200] --------->  strlen(array) ----> cin >> array
+string s  -----------> s.size()           ----> cin >> s  ----> string also stored into array..can be accesed using for(i=0;  ; )
+int array[200]  --------->  for(i=0; i<n ;i++){ cin >> array[i];}
